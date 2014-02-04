@@ -5,3 +5,4 @@ print "Tino \n";
 print "Tin \n";
 print "Tini \n";
 pr;
+pr2;
